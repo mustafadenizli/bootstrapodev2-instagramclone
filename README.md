@@ -1,2 +1,2 @@
-# bootstrapodev2-instagramclone
-bootstrap ile instagram sayfası tasarımı
+# instagrambootstrapclone
+Simple HTML Instagram clone made with Bootstrap.
